@@ -1,3 +1,3 @@
 module git.ghink.net/ghink/RandomCode
 
-go 1.23.3
+go 1.0.0
